@@ -1,0 +1,41 @@
+name,age,organization,position,language
+Facundo,72,CES,Technical Coach,python
+Luisana,33,Globant,UX Designer,javascript
+Héctor,19,Chevrolet,Associate,ruby
+Gabriel,20,CES,Associate,javascript
+Isabella,30,Globant,QA Manager,java
+Karo,23,Everis,Backend Developer,python
+Ariel,32,Rappi,Support,
+Juan,17,CES,Student,go
+Pablo,32,Python Organization,Human Resources Manager,python
+Lorena,56,Python Organization,Language Maker,python
+María,28,Microsoft,Software Engineer,c#
+Carlos,45,Google,Data Scientist,python
+Ana,34,Facebook,Product Manager,javascript
+Jorge,29,Amazon,Cloud Architect,java
+Lucía,26,Netflix,UI Designer,swift
+Pedro,31,Apple,DevOps Engineer,ruby
+Sofía,27,IBM,AI Researcher,python
+Miguel,40,Intel,Hardware Engineer,c++
+Elena,35,Oracle,Database Administrator,sql
+Fernando,38,Salesforce,Sales Engineer,apex
+Valeria,24,Spotify,Frontend Developer,javascript
+Andrés,33,Adobe,Graphic Designer,illustrator
+Natalia,30,Twitter,Community Manager,html
+Ricardo,37,LinkedIn,Marketing Specialist,css
+Patricia,42,HP,Technical Writer,markdown
+Daniela,25,Uber,Mobile Developer,kotlin
+Sebastián,36,Airbnb,Full Stack Developer,javascript
+Laura,28,Slack,Customer Success Manager,python
+Tomás,41,Dropbox,Security Analyst,perl
+Camila,27,Zoom,Video Engineer,c
+Mateo,33,Red Hat,System Administrator,bash
+Martina,29,GitHub,Open Source Advocate,go
+Diego,39,Atlassian,Agile Coach,scrum
+Paula,32,Shopify,E-commerce Specialist,liquid
+Lucas,30,Stripe,Payment Systems Engineer,rust
+Sara,26,Square,Financial Analyst,excel
+Gonzalo,34,Asana,Project Manager,kanban
+Mónica,37,Trello,Product Owner,lean
+Alberto,31,Notion,Content Strategist,markdown
+Verónica,28,Basecamp,Operations Manager,sql

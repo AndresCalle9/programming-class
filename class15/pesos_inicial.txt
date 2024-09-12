@@ -1,0 +1,2 @@
+Nota1,Nota2,Nota3,Nota4,Nota5,Nota6,Total
+, , , , , ,100

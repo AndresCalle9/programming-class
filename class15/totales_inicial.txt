@@ -1,0 +1,11 @@
+Nombre del Estudiante,Nota1,Nota2,Nota3,Nota4,Nota5,Nota6
+Juan Pérez, , , , , , 
+María García, , , , , , 
+Luis Rodríguez, , , , , , 
+Ana Martínez, , , , , , 
+Carlos Sánchez, , , , , , 
+Sofía López, , , , , , 
+Pedro Ramírez, , , , , , 
+Laura Fernández, , , , , , 
+Miguel González, , , , , , 
+Isabel Torres, , , , , , 

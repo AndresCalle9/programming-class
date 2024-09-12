@@ -1,0 +1,22 @@
+ID,Categoría,Nombre,Descripción,Precio,Stock
+E1,Electrónica,Smartphone Samsung Galaxy S21,"Pantalla 6.2 pulgadas, cámara trasera triple de 64MP, 8GB de RAM",1100,10
+E2,Electrónica,Smartwatch Apple Watch Series 6,"Pantalla retina always-on, monitor de oxígeno en sangre, GPS integrado",450,5
+C1,Carros,0,0,0,0
+E3,Electrónica,Tablet Samsung Galaxy Tab S7,"Pantalla 11 pulgadas, S Pen incluido, 6GB de RAM",700,8
+E4,Electrónica,Portátil Dell XPS 13,"Pantalla 13.4 pulgadas, procesador Intel Core i7, 16GB de RAM",1500,3
+M1,Muebles,Silla de oficina ergonómica Herman Miller Aeron,"Soporte lumbar, reposabrazos ajustables, diseño transpirable",1500,1
+E5,Electrónica,Auriculares inalámbricos Sony WH-1000XM4,"Cancelación de ruido activa, 30 horas de batería, compatible con Alexa",300,7
+E6,Electrónica,Altavoz inteligente Amazon Echo Dot,"Alexa integrada, control de voz, altavoz de 1.6 pulgadas",50,15
+E7,Electrónica,Teclado inalámbrico Logitech K780,"Teclado multi-dispositivo, soporte para tablet y teléfono, batería duradera",80,12
+E8,Electrónica,Ratón inalámbrico Logitech MX Master 3,"Sensor de alta precisión, compatibilidad con múltiples dispositivos, recargable",100,9
+E9,Electrónica,Monitor LG 27UK850,"Pantalla 27 pulgadas 4K, HDR10, USB-C, 99% sRGB",500,6
+M2,Muebles,Escritorio de oficina en casa West Elm,"Superficie de vidrio templado, patas de acero, diseño moderno",300,6
+E10,Electrónica,Impresora HP OfficeJet Pro 9015e,"Impresión a doble cara automática, conexión wifi, escaneo a doble cara",250,4
+E11,Electrónica,Cámara DSLR Canon EOS Rebel T8i,"Sensor CMOS de 24.1 megapíxeles, grabación de video 4K, pantalla táctil de 3 pulgadas",800,2
+E12,Electrónica,Disco duro externo Seagate Backup Plus,"Capacidad de 4TB, conexión USB 3.0, copia de seguridad automática",120,11
+M3,Muebles,Sofá seccional de cuero,"Sofá seccional en forma de L, hecho de cuero italiano de alta calidad, asientos reclinables",2000,4
+E13,Electrónica,Ruteador Wi-Fi Netgear Nighthawk AX8,"Conexión wifi 6 de alta velocidad, capacidad para múltiples dispositivos",300,5
+E14,Electrónica,Smart TV Samsung Q80T,"Pantalla 55 pulgadas QLED 4K, HDR10+, control de voz con Alexa y Bixby",1200,3
+M4,Muebles,Cama de plataforma con almacenamiento,"Cama de tamaño queen con plataforma baja y espacio de almacenamiento integrado",800,3
+M5,Muebles,Mesa de comedor de madera maciza,"Mesa de comedor hecha de madera maciza, asientos para 8 personas, diseño rústico",1200,2
+M6,Muebles,Estantería modular de pared,"Estantería modular de pared con cajones y espacios de almacenamiento abiertos, diseño moderno",500,5

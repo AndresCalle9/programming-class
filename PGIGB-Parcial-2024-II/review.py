@@ -8,6 +8,7 @@ def validar_turnos(archivo):
         turnos_dia = []
         for linea in lineas[1:]:
             datos = linea.strip().split(';')
+            print(dia,datos)
             turno = datos[dia]
             if turno:
                 turnos_dia.append(turno)
@@ -19,7 +20,7 @@ def validar_turnos(archivo):
 
 # Función principal para validar el archivo
 def main():
-    archivo = 'test.txt'
+    archivo = './PGIGB-Parcial-2024-II/Files/asly.txt'
     dias_incompletos = validar_turnos(archivo)
     
     if dias_incompletos:

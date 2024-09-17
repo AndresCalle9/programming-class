@@ -1,0 +1,16 @@
+Nombre;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20;21;22;23;24;25;26;27;28;29;30;31;Total Trabajadas;Total Contratadas
+María González;PT;C;C;;N;C;;;C;;N;C;;N;;N;C;C;C;;N;;PT;;FT;;C;;;;;186;250
+Juan Pérez;;;;PT;;C;C;;C;PT;PT;;;;C;N;N;;N;;;C;N;;C;N;;;FT;;C;168;280
+Ana Rodríguez;N;;C;;;N;;C;;FT;;FT;;;PT;PT;N;N;PT;;FT;;;;;;N;;;C;;132;205
+Carlos López;C;;C;N;C;N;;N;PT;N;;;FT;FT;C;C;;C;;;;;N;N;;C;FT;C;;N;;204;220
+Laura Fernández;C;N;;FT;;;;N;;;;C;C;C;FT;;FT;;;N;C;;;FT;C;FT;N;C;N;C;FT;192;280
+José Martínez;C;PT;PT;;;;FT;;N;;N;;;N;;N;;PT;;C;PT;C;;;N;N;;;N;FT;C;168;290
+Lucía Sánchez;;C;;C;PT;;N;N;;C;C;;C;C;;FT;;N;;N;;;;PT;;;;N;C;N;;174;230
+Miguel Ramírez;;;N;C;;;N;;N;;FT;PT;N;C;;;;FT;;N;C;;;N;;;N;;;PT;C;156;180
+Elena Torres;N;C;;;N;PT;C;C;C;;;N;N;PT;;;N;;FT;C;N;N;C;;N;N;;C;C;;;222;225
+David Gómez;;N;N;;;;;PT;N;N;;;C;;C;C;;;C;PT;C;N;N;;C;;;;PT;;PT;168;255
+Isabel Díaz;;FT;;N;;C;N;;;N;C;C;N;;;;PT;C;;;N;PT;FT;N;N;;C;;N;C;;192;195
+Pedro Morales;;;;C;C;FT;PT;C;;;;;;;N;C;C;;C;;;N;C;C;PT;C;;PT;;N;N;180;185
+Carmen Ruiz;N;N;N;;FT;;;;;C;N;;PT;;N;;;;N;C;;C;;;;PT;;FT;;;;132;240
+Javier Herrera;FT;;FT;;N;N;C;FT;FT;;;N;;;N;;;;;FT;;;C;C;;C;PT;N;;;N;156;480
+Sofía Castro;;;;N;C;;;;;C;C;N;;N;;;C;N;N;;;FT;;C;;;C;N;C;;N;174;180

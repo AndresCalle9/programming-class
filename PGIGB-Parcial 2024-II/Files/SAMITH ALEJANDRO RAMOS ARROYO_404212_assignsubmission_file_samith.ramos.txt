@@ -1,0 +1,16 @@
+Nombre ; Turnos ; Horas Trabajadas ; Horas Contratadas
+Andres;N;C;PT;N;C;C;PT;C;C;C;C;C;C;PT;C;N;C;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;0;200
+Carols;N;N;N;FT;C;C;C;C;PT;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;0;100
+Manuela;C;PT;C;C;N;N;PT;C;FT;C;C;C;N;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;0;150
+Manuel;N;N;PT;N;C;N;N;C;FT;C;N;C;FT;C;N;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;0;180
+Carolina;C;PT;N;C;N;N;N;C;C;FT;N;N;PT;N;N;C;C;N;PT;N;C;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;0;250
+Ramón;N;PT;PT;N;PT;C;PT;FT;N;FT;FT;FT;C;C;C;C;C;FT;PT;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;0;220
+Juan;PT;C;N;N;C;C;N;PT;C;N;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;0;120
+Delfina;N;PT;N;PT;C;N;N;C;N;C;FT;N;PT;C;N;FT;C;FT;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;0;210
+Caterine;N;C;C;N;C;PT;N;C;N;N;N;PT;PT;C;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;0;160
+Austin;C;PT;FT;N;C;PT;C;C;C;PT;N;FT;PT;C;PT;FT;C;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;0;190
+Ekeler;N;N;C;C;PT;N;PT;C;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;0;95
+Jason;C;PT;FT;N;N;C;C;N;PT;PT;N;C;C;N;C;PT;FT;FT;C;C;C;PT;FT;C;C;Libre;Libre;Libre;Libre;Libre;Libre;0;300
+Jaime;N;N;C;N;N;C;C;C;C;C;C;PT;C;N;C;C;N;N;C;C;PT;C;C;FT;FT;FT;N;Libre;Libre;Libre;Libre;0;320
+Sebastian;C;C;C;FT;FT;N;C;FT;C;PT;N;C;N;PT;N;C;N;C;C;FT;N;PT;FT;PT;FT;PT;C;N;N;PT;C;0;480
+Antonia;FT;N;PT;FT;C;N;C;N;C;N;N;PT;N;N;N;N;C;N;N;PT;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;Libre;0;230

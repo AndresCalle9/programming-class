@@ -1,0 +1,16 @@
+Nombre;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20;21;22;23;24;25;26;27;28;29;30;31;horas trabajadas;horas contraradas
+Andres;;N;;;;;;C;;;;;;N;;;C;PT;;C;;;C;;C;PT;N;;C;PT;PT;168;200
+Carols;;;;;N;;FT;;;;;N;;;;;;;;FT;PT;;;;;;;;N;C;;90;100
+Manuela;N;C;;;N;;;FT;;FT;;C;;;C;C;FT;N;;N;;N;;N;;;;;;;;150;150
+Manuel;;C;;N;;;;;;C;;;N;FT;;N;;;;;N;N;N;;PT;;C;N;;;;180;180
+Carolina;FT;N;N;C;;FT;N;C;;;FT;;N;C;;PT;;;;C;N;;;;;N;C;C;;C;;246;250
+Ramón;;;;;C;;;PT;;;PT;C;FT;;;N;;;N;N;;;N;;FT;;N;;;N;C;144;220
+Juan;;C;;;;;N;;;;N;;;;;FT;C;FT;;C;;C;;;C;;;;;;;120;120
+Delfina;;;C;FT;C;PT;;N;PT;;;;;C;;;;;;;N;;FT;;N;FT;FT;N;PT;;FT;144;210
+Caterine;;;;;PT;C;C;;;C;C;N;;PT;N;;;;N;;;;;;;;;;;;;156;160
+Austin;;FT;C;PT;FT;;;;FT;PT;;;;N;N;;PT;C;C;;C;;;;C;;;C;FT;;;186;190
+Ekeler;;PT;;C;;C;N;C;C;;N;N;;;;;;;;;;;;;;;;;;;;90;95
+Jason;N;N;;C;;;PT;N;N;;;;;;FT;N;;C;N;;C;FT;PT;PT;N;;;C;N;;N;276;300
+Jaime;C;;N;;;N;C;;N;N;;FT;C;;;;N;;FT;PT;;;;;;N;;PT;N;N;C;282;320
+Sebastian;;;;;;C;;;N;N;;;PT;;;;N;C;;;FT;;C;N;;N;PT;N;;FT;N;192;480
+Antonia;;;FT;N;N;;;N;C;;;PT;;;PT;C;;N;C;;;;;FT;;;N;FT;;;;180;230

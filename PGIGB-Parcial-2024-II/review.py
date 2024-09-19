@@ -1,3 +1,5 @@
+import os
+
 def validar_turnos(archivo):
     with open(archivo, 'r') as f:
         lineas = f.readlines()
@@ -8,7 +10,6 @@ def validar_turnos(archivo):
         turnos_dia = []
         for linea in lineas[1:]:
             datos = linea.strip().split(';')
-            print(dia,datos)
             turno = datos[dia]
             if turno:
                 turnos_dia.append(turno)
@@ -18,15 +19,29 @@ def validar_turnos(archivo):
     
     return dias_incompletos
 
+def files(ruta):
+    return os.listdir(ruta)
+
 # Función principal para validar el archivo
 def main():
-    archivo = './PGIGB-Parcial-2024-II/Files/asly.txt'
-    dias_incompletos = validar_turnos(archivo)
+    archivos = files('./PGIGB-Parcial-2024-II/Files')
+    count = 0
+
+    for i in archivos:
+        file_name = i.split('.')[0]
+        try:
+            dias_incompletos = validar_turnos(f"./PGIGB-Parcial-2024-II/Files/{i}")
+            
+            if dias_incompletos:
+                print(f"{file_name},Los siguientes días no tienen los 8 turnos necesarios: {dias_incompletos}")
+            else:
+                print(f"{file_name}, Todos los días tienen los 8 turnos necesarios.")
+        except:
+            print(f"{file_name} error")
+            count += 1
     
-    if dias_incompletos:
-        print(f"Los siguientes días no tienen los 8 turnos necesarios: {dias_incompletos}")
-    else:
-        print("Todos los días tienen los 8 turnos necesarios.")
+    print(count)
+        
 
 # Ejecutar la función principal
 main()

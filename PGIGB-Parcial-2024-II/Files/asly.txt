@@ -14,4 +14,3 @@ Jason;N; ;C; ; ;C;C;N; ; ; ;N;C;C; ;N;PT;FT;N;N; ; ; ;C;N;N;N;C;N;C;228;300
 Jaime;C;C; ;C; ;N;PT; ; ;N;C;N; ; ;N;N; ; ; ;N;N; ;N;N;C;N; ; ; ;FT;192;320
 Sebastian; ;PT;N; ; ; ;N;C;C; ;FT;C;C;N;FT;C;FT; ; ;C;FT;N;FT;N; ; ;N;N;N;N;216;480
 Antonia;N;C; ;PT;N;C;C;C;C;C;N; ;N; ;C; ; ;N; ; ; ;C;C; ;C;FT;FT;FT;C;N;228;230
-

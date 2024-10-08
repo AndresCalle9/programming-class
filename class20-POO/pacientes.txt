@@ -1,0 +1,83 @@
+Nombre,Id,Enfermedad,Unidad
+Sofía García,10001,COVID-19,Unidad de Cuidados Intensivos
+Mateo Ramírez,10002,Influenza,Consulta Externa
+Luciana Rodríguez,10003,Hipertensión,Servicio de Medicina Interna
+Gabriel Gómez,10004,Diabetes Metellitus,Endocrinología
+Emma Torres,10005,Artritis,Servicio de Reumatología
+Benjamín Díaz,10006,Asma,Neumología
+Camila Castro,10007,Acné,Dermatología
+Leonardo Torres,10008,Alzheimer,Neurología
+Martina González,10009,Angina de Pecho,Cardiología
+David Vargas,10010,Anemia,Hematología
+Valeria Hernández,10011,Ansiedad,Psiquiatría
+Carlos Pérez,10012,Apendicitis,Cirugía General
+Mía González,10013,Arritmia,Cardiología
+Alejandro Medina,10014,Cáncer de Mama,Oncología
+Lucas Gutiérrez,10015,Cataratas,Oftalmología
+Renata Gómez,10016,Cefalea,Neurología
+Sebastián Ramírez,10017,Celulitis,Cirugía Plástica
+Olivia Castro,10018,Colitis,Gastroenterología
+Juliana Rodríguez,10019,Colesterol Elevado,Endocrinología
+Isabella Hernández,10020,Depresión,Psiquiatría
+Luisa Fernández,10021,Dermatitis,Dermatología
+Juan Manuel Vargas,10022,Eczema,Dermatología
+María García,10023,Endometriosis,Ginecología
+Miguel Ángel Medina,10024,Enfermedad de Crohn,Gastroenterología
+Juan David Torres,10025,Epilepsia,Neurología
+Valentina Gómez,10026,Esclerosis Múltiple,Neurología
+Julián Pérez,10027,Fibromialgia,Rehabilitación
+Santiago Hernández,10028,Gastritis,Gastroenterología
+Sara González,10029,Glaucoma,Oftalmología
+Lucía Torres,10030,Gota,Reumatología
+Luis Fernando Castro,10031,Hepatitis A,Gastroenterología
+Andrea García,10032,Herpes Genital,Ginecología
+María José Ramírez,10033,Herpes Zóster,Dermatología
+Andrés López,10034,HIV,Infectología
+Laura Torres,10035,Infección del Tracto Urinario,Urología
+Nicolás Gutiérrez,10036,Insomnio,Psiquiatría
+Julia Rodríguez,10037,Laringitis,Otorrinolaringología
+Samuel Vargas,10038,Lupus Eritematoso Sistémico,Reumatología
+Luciana Gómez,10039,Meningitis,Infectología
+Emilio Hernández,10040,Migraña,Neurolog
+Juan Rodriguez,1001,COVID-19,Unidad de Cuidados Intensivos
+Maria Hernandez,1002,Influenza,Servicio de Urgencias
+Luis Gonzalez,1003,Hipertensión,Cardiología
+Ana Perez,1004,Diabetes Metellitus,Endocrinología
+Carlos Garcia,1005,Artritis,Reumatología
+Sofia Jimenez,1006,Asma,Neumología
+Diego Ramirez,1007,Acné,Dermatología
+Laura Gomez,1008,Alzheimer,Neurología
+Roberto Castro,1009,Angina de Pecho,Cardiología
+Patricia Castro,1010,Anemia,Hematología
+Jorge Suarez,1011,Ansiedad,Psiquiatría
+Fernanda Martinez,1012,Apendicitis,Cirugía General
+Ricardo Diaz,1013,Arritmia,Cardiología
+Mariana Torres,1014,Cáncer de Mama,Oncología
+Eduardo Sánchez,1015,Cataratas,Oftalmología
+Julia Martinez,1016,Cefalea,Neurología
+Miguel Gonzalez,1017,Celulitis,Dermatología
+Carla Hernandez,1018,Colitis,Gastroenterología
+Andrés Perez,1019,Colesterol Elevado,Cardiología
+Alejandra García,1020,Depresión,Psiquiatría
+Adriana Rodriguez,1021,Dermatitis,Dermatología
+Mario Flores,1022,Eczema,Dermatología
+Paola Gomez,1023,Endometriosis,Ginecología
+Gustavo González,1024,Enfermedad de Crohn,Gastroenterología
+Carolina Rodriguez,1025,Epilepsia,Neurología
+Mauricio Pérez,1026,Esclerosis Múltiple,Neurología
+Ana Paula Jimenez,1027,Fibromialgia,Reumatología
+Luisa Torres,1028,Gastritis,Gastroenterología
+David Ramirez,1029,Glaucoma,Oftalmología
+Camila Diaz,1030,Gota,Reumatología
+Juanita Sanchez,1031,Hepatitis A,Infectología
+Luis Hernandez,1032,Herpes Genital,Dermatología
+Javier Torres,1033,Herpes Zóster,Dermatología
+Sofia Torres,1034,HIV,Infectología
+Mauricio Castro,1035,Infección del Tracto Urinario,Urología
+Elena Jimenez,1036,Insomnio,Psiquiatría
+Jorge Ruiz,1037,Laringitis,Otorrinolaringología
+Valentina Castro,1038,Lupus Eritematoso Sistémico,Reumatología
+Daniel González,1039,Meningitis,Infectología
+Cristina Ramirez,1040,Migraña,Neurología
+Andres Salazar,1041,Neumonía,Neumología
+Natalia Suarez,1042,Osteoartritis,Reumatología

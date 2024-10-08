@@ -1,0 +1,49 @@
+Enfermedad,Medicamentos,Tiempo de recuperación
+COVID-19,Remdesivir,2 semanas
+Influenza,Tamiflu,1 semana
+Hipertensión,Losartan,1 mes
+Diabetes Metellitus,Insulina,Indefinido
+Artritis,Acetaminofén,2 semanas
+Asma,Salbutamol,1 semana
+Acné,Tretinoina,4 semanas
+Alzheimer,Donepezil,Indefinido
+Angina de Pecho,Nitroglicerina,2 semanas
+Anemia,Ferrous Sulfate,2 meses
+Ansiedad,Alprazolam,3 semanas
+Apendicitis,Amoxicilina,2 semanas
+Arritmia,Atenolol,1 mes
+Cáncer de Mama,Tamoxifeno,Indefinido
+Cataratas,Acetazolamide,2 semanas
+Cefalea,Tylenol,1 semana
+Celulitis,Clindamicina,3 semanas
+Colitis,Ulcerative Mesalamine,4 semanas
+Colesterol Elevado,Atorvastatina,2 meses
+Depresión,Fluoxetina,Indefinido
+Dermatitis,Hydrocortisone,4 semanas
+Eczema,Elidel,2 semanas
+Endometriosis,Levonorgestrel,Indefinido
+Enfermedad de Crohn,Infliximab,Indefinido
+Epilepsia,Carbamazepine,Indefinido
+Esclerosis Múltiple,Interferón Beta-1a,Indefinido
+Fibromialgia,Pregabalina,Indefinido
+Gastritis,Omeprazol,4 semanas
+Glaucoma,Latamoprost,Indefinido
+Gota,Colchicina,2 semanas
+Hepatitis A,Inmunoglobulina,2 semanas
+Herpes Genital,Aciclovir,2 semanas
+Herpes Zóster,Valaciclovir,4 semanas
+HIV,Truvada,Indefinido
+Infección del Tracto Urinario,Nitrofurantoin,1 semana
+Insomnio,Zolpidem,2 semanas
+Laringitis,Fluticasone,1 semana
+Lupus Eritematoso Sistémico,Hidroxicloroquina,Indefinido
+Meningitis,Ceftriaxone,Indefinido
+Migraña,Sumatriptán,1 semana
+Neumonía,Amoxicilina-Clavulanate,2 semanas
+Osteoartritis,Ibuprofeno,Indefinido
+Osteoporosis,Alendronato,Indefinido
+Parkinson,Levodopa,Indefinido
+Psoriasis,Methotrexate,Indefinido
+Síndrome de Fatiga Crónica,Fluoxetine,Indefinido
+Tuberculosis,Isoniazida,6 meses
+Úlcera Péptica,Ranitidina,4 semanas

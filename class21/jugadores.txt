@@ -1,0 +1,19 @@
+Nombre,Numero,Posicion
+Micah Christenson,11,colocador
+Wilfredo León,9,atacante exterior
+Max Holt,12,central
+Ivan Zaytsev,9,opuesto
+Jenia Grebennikov,10,libero
+Kelsey Robinson,23,especialista defensivo
+Bruno Rezende,1,colocador
+Earvin N'Gapeth,9,atacante exterior
+Lucas Saatkamp,16,central
+Wallace de Souza,8,opuesto
+Erik Shoji,22,libero
+Justine Wong-Orantes,2,especialista defensivo
+Simone Giannelli,6,colocador
+Matt Anderson,1,atacante exterior
+Srećko Lisinac,20,central
+Tsvetan Sokolov,19,opuesto
+Massimo Colaci,13,libero
+Monica De Gennaro,15,especialista defensivo
